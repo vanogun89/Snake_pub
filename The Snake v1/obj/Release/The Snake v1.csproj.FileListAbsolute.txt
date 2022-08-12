@@ -1,0 +1,11 @@
+C:\Programming\Проекты\The Snake v1\bin\Release\The Snake v1.exe.config
+C:\Programming\Проекты\The Snake v1\bin\Release\The Snake v1.exe
+C:\Programming\Проекты\The Snake v1\bin\Release\The Snake v1.pdb
+C:\Programming\Проекты\The Snake v1\obj\Release\The_Snake_v1.Form1.resources
+C:\Programming\Проекты\The Snake v1\obj\Release\The_Snake_v1.Properties.Resources.resources
+C:\Programming\Проекты\The Snake v1\obj\Release\The Snake v1.csproj.GenerateResource.cache
+C:\Programming\Проекты\The Snake v1\obj\Release\The Snake v1.csproj.CoreCompileInputs.cache
+C:\Programming\Проекты\The Snake v1\obj\Release\The Snake v1.exe
+C:\Programming\Проекты\The Snake v1\obj\Release\The Snake v1.pdb
+C:\Programming\Проекты\The Snake v1\obj\Release\The Snake v1.csproj.AssemblyReference.cache
+C:\Programming\Проекты\The Snake v1\obj\Release\The Snake v1.csproj.SuggestedBindingRedirects.cache
